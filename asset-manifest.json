@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maschnell21/materialui_demo/static/css/main.feeb957e.css",
+    "main.js": "/maschnell21/materialui_demo/static/js/main.01d13c28.js",
+    "static/js/787.1199a6d1.chunk.js": "/maschnell21/materialui_demo/static/js/787.1199a6d1.chunk.js",
+    "index.html": "/maschnell21/materialui_demo/index.html",
+    "main.feeb957e.css.map": "/maschnell21/materialui_demo/static/css/main.feeb957e.css.map",
+    "main.01d13c28.js.map": "/maschnell21/materialui_demo/static/js/main.01d13c28.js.map",
+    "787.1199a6d1.chunk.js.map": "/maschnell21/materialui_demo/static/js/787.1199a6d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feeb957e.css",
+    "static/js/main.01d13c28.js"
+  ]
+}
